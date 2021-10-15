@@ -1,0 +1,59 @@
+:root {
+    /* color vars */
+    --black: #333;
+    --hover-black: #6b6b6b;
+    --click-black: #333;
+    --gray: #7e7e83;
+    --hover-gray: #535353;
+    --click-gray: #333;
+    --gray-suit: #8e8e93;
+    --light-gray: #babac0;
+    --pearl-gray: #b5b5b9;
+    --hover-light-gray: #878792;
+    --click-light-gray: #64656a;
+    --link: #007aff;
+    --hover-link: #0053ae;
+    --click-link: #003672;
+    --visited-link: #81b7ff;
+    --dark-link: #409bff;
+    --success: #27c177;
+    --attention: #ffa41c;
+    --red: #e31235;
+    --hover-red: #bd0f2c;
+    --click-red: #9c0c24;
+    --divider: #dedee2;
+    --bg-gray: #f5f5f6;
+    --disable: #4a4a4a;
+    --true-black: #000;
+    --pink: #ee7abd;
+    --hover-pink: #d1559d;
+    --click-pink: #992166;
+    --purle: #966feb;
+    --hover-purle: #794ed8;
+    --click-purle: #4f1fb8;
+    --blue: #549af1;
+    --hover-blue: #2a76d4;
+    --click-blue: #0c4893;
+    --green: #51d0db;
+    --hover-green: #2ab8c5;
+    --click-green: #08818b;
+    --green-availability: #1da444;
+    --white: #fff;
+    --white-transparent: hsla(0,0%,100%,0.9);
+    --gray-transparent: rgba(4,6,28,0.1);
+    --transparent: hsla(0,0%,100%,0);
+    --skeleton-color-1: #f5f5f6;
+    --skeleton-color-2: #dfdee2;
+
+
+    /* spacings */
+    --spacing-xs: 4px;
+    --spacing-s: 8px;
+    --spacing-m: 16px;
+    --spacing-xm: 24px;
+    --spacing-l: 32px;
+    --spacing-xl: 40px;
+
+    /* other */
+    --border-radius: 4px;
+}
